@@ -12,4 +12,4 @@ Python viewer states tutorial for a tool (two parts): https://www.youtube.com/wa
 
 Tutorial that also talks about custom handles: https://www.youtube.com/watch?v=94G5gD_XJk8&ab_channel=HoudiniElement (ended up just skimming this one because this was like two hours of tutorials total)
 
-**Video of my result:** https://drive.google.com/drive/folders/1G4tvba8GBpdLto4akaFcFOTqzMKZSrwu?usp=sharing (folder with two videos of different tests)
+**Video of my result:** https://drive.google.com/drive/folders/1G4tvba8GBpdLto4akaFcFOTqzMKZSrwu?usp=sharing (folder with two videos of different tests, as well as the python script code for the add tool)
